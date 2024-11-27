@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Buy 'Kiss of the Killer' Now">
+    <title>Kiss of the Killer - Buy the Book</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Welcome to the Official 'Kiss of the Killer' Book Store</h1>
+        <p>Get your copy now and dive into the dark mystery of the maze!</p>
+    </header>
+
+    <section class="book-info">
+        <img src="book-cover.jpg" alt="Kiss of the Killer Book Cover" class="book-cover">
+        <div class="description">
+            <h2>'Kiss of the Killer'</h2>
+            <p>
+                A gripping tale of love, betrayal, and the supernatural, set in a maze that can trap souls forever. 
+                Will Ivy and Carver escape the maze, or will their love tie them to a fate they can't escape?
+            </p>
+            <p><strong>Price: $14.99</strong></p>
+            <p><a href="https://cash.app/$YourCashTag?amount=14.99" class="buy-now">Buy Now</a></p>
+        </div>
+    </section>
+
+    <footer>
+        <p>Contact: <a href="mailto:your-email@example.com">your-email@example.com</a></p>
+        <p>&copy; 2024 Kiss of the Killer</p>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>
